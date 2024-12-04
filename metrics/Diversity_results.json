@@ -1,0 +1,76 @@
+{
+    "models_diversity": {
+        "gpt4o-summary": {
+            "disability": 0.8992401639659089,
+            "non-disability": 0.9006029357412103,
+            "standard": 0.8974484683090159
+        },
+        "gpt4o-mini-summary": {
+            "disability": 0.9044495217197724,
+            "non-disability": 0.9050282725489518,
+            "standard": 0.9054851361812599
+        },
+        "llama3.1-70b-summary": {
+            "disability": 0.8382132652639142,
+            "non-disability": 0.8866500186725997,
+            "standard": 0.890735287946339
+        },
+        "llama3.1-8b-summary": {
+            "disability": 0.8918176656526309,
+            "non-disability": 0.8861537540787789,
+            "standard": 0.8903825508552217
+        },
+        "mistral-7b-summary": {
+            "disability": 0.9000756612547159,
+            "non-disability": 0.8957178959915459,
+            "standard": 0.8969648283276094
+        },
+        "mistral-8x7b-summary": {
+            "disability": 0.900243973133535,
+            "non-disability": 0.8952527257709629,
+            "standard": 0.84418395254948
+        },
+        "golden-summary": {
+            "disability": 0.9241743404723388,
+            "non-disability": 0.9314866732546175,
+            "standard": 0.9334731413837534
+        }
+    },
+    "diversity_diff": {
+        "gpt4o-summary": {
+            "disability": -0.024934176506430487,
+            "non-disability": -0.03088373751340773,
+            "standard": -0.03602467307473803
+        },
+        "gpt4o-mini-summary": {
+            "disability": -0.01972481875256696,
+            "non-disability": -0.026458400705666563,
+            "standard": -0.02798800520249492
+        },
+        "llama3.1-70b-summary": {
+            "disability": -0.08596107520842514,
+            "non-disability": -0.04483665458201842,
+            "standard": -0.04273785343741473
+        },
+        "llama3.1-8b-summary": {
+            "disability": -0.03235667481970869,
+            "non-disability": -0.045332919175838794,
+            "standard": -0.04309059052853255
+        },
+        "mistral-7b-summary": {
+            "disability": -0.02409867921762332,
+            "non-disability": -0.03576877726307195,
+            "standard": -0.036508313056144354
+        },
+        "mistral-8x7b-summary": {
+            "disability": -0.023930367338804187,
+            "non-disability": -0.03623394748365518,
+            "standard": -0.08928918883427388
+        },
+        "golden-summary": {
+            "disability": 0.0,
+            "non-disability": 0.0,
+            "standard": 0.0
+        }
+    }
+}

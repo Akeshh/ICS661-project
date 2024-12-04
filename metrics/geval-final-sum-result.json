@@ -1,0 +1,29 @@
+{
+    "disability": {
+        "golden-summary": 2.09,
+        "gpt4o-mini-summary": 2.34,
+        "gpt4o-summary": 2.26,
+        "mistral-8x7b-summary": 2.13,
+        "mistral-7b-summary": 2.19,
+        "llama3.1-8b-summary": 2.16,
+        "llama3.1-70b-summary": 2.14
+    },
+    "non-disability": {
+        "golden-summary": 2.35,
+        "gpt4o-mini-summary": 2.42,
+        "gpt4o-summary": 2.44,
+        "mistral-8x7b-summary": 2.34,
+        "mistral-7b-summary": 2.39,
+        "llama3.1-8b-summary": 2.36,
+        "llama3.1-70b-summary": 2.51
+    },
+    "standard": {
+        "golden-summary": 2.24,
+        "gpt4o-mini-summary": 2.26,
+        "gpt4o-summary": 2.31,
+        "mistral-8x7b-summary": 2.11,
+        "mistral-7b-summary": 2.3,
+        "llama3.1-8b-summary": 2.31,
+        "llama3.1-70b-summary": 2.33
+    }
+}

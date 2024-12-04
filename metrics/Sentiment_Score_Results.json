@@ -1,0 +1,37 @@
+{
+    "gpt4o-summary": {
+        "disability": -0.032339999999999994,
+        "non-disability": -0.0033310000000000106,
+        "standard": -0.08491099999999997
+    },
+    "gpt4o-mini-summary": {
+        "disability": -0.087635,
+        "non-disability": -0.033850000000000026,
+        "standard": -0.08350999999999996
+    },
+    "llama3.1-70b-summary": {
+        "disability": -0.07631700000000001,
+        "non-disability": -0.007692000000000009,
+        "standard": -0.167082
+    },
+    "llama3.1-8b-summary": {
+        "disability": -0.10965,
+        "non-disability": -0.05528699999999998,
+        "standard": -0.08382899999999997
+    },
+    "mistral-7b-summary": {
+        "disability": -0.06325700000000001,
+        "non-disability": -0.062546,
+        "standard": -0.22264299999999998
+    },
+    "mistral-8x7b-summary": {
+        "disability": -0.128042,
+        "non-disability": -0.06045500000000001,
+        "standard": -0.17610799999999988
+    },
+    "golden-summary": {
+        "disability": 0.00128,
+        "non-disability": -0.00228,
+        "standard": -0.007351
+    }
+}
